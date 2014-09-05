@@ -1,0 +1,9 @@
+c:\users\sne\documents\visual studio 2012\Projects\CrawlSite\CrawlSite\bin\Debug\CrawlSite.exe.config
+c:\users\sne\documents\visual studio 2012\Projects\CrawlSite\CrawlSite\bin\Debug\CrawlSite.exe
+c:\users\sne\documents\visual studio 2012\Projects\CrawlSite\CrawlSite\bin\Debug\CrawlSite.pdb
+c:\users\sne\documents\visual studio 2012\Projects\CrawlSite\CrawlSite\obj\Debug\CrawlSite.csprojResolveAssemblyReference.cache
+c:\users\sne\documents\visual studio 2012\Projects\CrawlSite\CrawlSite\obj\Debug\CrawlSite.Form1.resources
+c:\users\sne\documents\visual studio 2012\Projects\CrawlSite\CrawlSite\obj\Debug\CrawlSite.Properties.Resources.resources
+c:\users\sne\documents\visual studio 2012\Projects\CrawlSite\CrawlSite\obj\Debug\CrawlSite.csproj.GenerateResource.Cache
+c:\users\sne\documents\visual studio 2012\Projects\CrawlSite\CrawlSite\obj\Debug\CrawlSite.exe
+c:\users\sne\documents\visual studio 2012\Projects\CrawlSite\CrawlSite\obj\Debug\CrawlSite.pdb
